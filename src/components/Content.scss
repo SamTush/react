@@ -6,5 +6,10 @@ main {
 
   ul {
     list-style: none;
+    text-align: start;
+
+    .items {
+      width: 450px;
+    }
   }
 }
